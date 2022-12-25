@@ -35,3 +35,4 @@ React, TailwindCSS, web3, Alchemy, NextJS, Hardhat
 * [TestNet](https://goerli.net/)
 * [Artwork](https://www.figma.com/file/GXTdBLDLiuHCsjn8ZNUlvn/NFT-Collection-Design-System-(Community)?node-id=1%3A60&t=axGysB71trgxzeCo-0)
 * [Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+* [Pinata](https://app.pinata.cloud/) (ipfs for nft metadata)
