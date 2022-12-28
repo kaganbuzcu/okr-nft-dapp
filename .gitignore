@@ -28,3 +28,5 @@ package-lock.json
 
 # vercel
 .vercel
+
+.env
